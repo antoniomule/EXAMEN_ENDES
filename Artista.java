@@ -17,7 +17,11 @@ public class Artista {
     public String getNombreArtista() {
         return nombreArtista;
     }
-    
+
+    //Antonio David Muñoz Leal
+    public void setNombreArtista(String nombreArtista) {
+        this.nombreArtista = nombreArtista;
+    }
 }
 
 
